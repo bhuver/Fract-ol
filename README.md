@@ -5,8 +5,10 @@ Projet graphique solo pour l'ecole 42 affichant des fractales.
 "+" et "-" du pave numerique pour monter/baisser les iterations.
 fleches pour deplacer l'image.
 
-Pour la fractale de Julia:
-Les variables dependent de la position de la souris. Possibilite de les "figer" via la barre espace.
+#### Pour la fractale de Julia:
+
+Les variables dependent de la position de la souris.
+Possibilite de les "figer" via la barre espace.
 
 ### Julia
 
