@@ -10,14 +10,14 @@ fleches pour deplacer l'image.
 Les variables dependent de la position de la souris.
 Possibilite de les "figer" via la barre espace.
 
-### Julia
+## Julia
 
 ![alt tag](https://github.com/bhuver/Fract-ol/blob/master/saves/Julia.png)
 
-### Mandelbrot
+## Mandelbrot
 
 ![alt_tag](https://github.com/bhuver/Fract-ol/blob/master/saves/Mandelbrot.png)
 
-### Burningship
+## Burningship
 
 ![alt_tag](https://github.com/bhuver/Fract-ol/blob/master/saves/Burningship.png)
